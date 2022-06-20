@@ -1,11 +1,14 @@
-# ProyectoISPC
-# Probando antes del meet NicoRojo
-<<<<<<< HEAD
-ejemplo de marianella
-=======
-Ejemplo 
->>>>>>> 2826b994f267c19de6b07f95ff146029a92a77c4
-# probando desde vscode
-# prueba 2
-# probando 3
-# prueba 4
+# Proyecto Modulo Programador ISPC
+- [Bloque N°1](#Bloque)
+    - [Introducción a las Bases de Datos](#introducción-a-las-bases-de-datos)
+    - [Metodologías Agiles y Gestión de Proyectos](#metodologías-agiles-y-gestión-de-proyectos)
+    - [Ética y Deontología Profesional](#ética-y-deontología-profesional)
+
+# Bloque N°1
+
+
+## Introducción a las Bases de Datos
+
+## Metodologías Agiles y Gestión de Proyectos
+
+## Ética y Deontología Profesional
