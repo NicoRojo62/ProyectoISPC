@@ -13,13 +13,13 @@ cascada.
 
 ![scrum](img/scrum.png)
 
-#Los 4 valores del Manifiesto Agile
+# Los 4 valores del Manifiesto Agile
 
 Los impulsores del Manifiesto ágil compartían una serie de valores y promovieron modelos de organización centrados en las personas y la colaboración. Esencialmente, buscaban ofrecer buenos productos a los clientes operando en un entorno que pasase de hablar de las personas como “el activo más importante de las compañías”, a actuar como si realmente lo fueran y dejasen de ser un mero “activo”.
 
 Estos son los 4 valores sobre los que se fundamentan las metodologías ágiles:
 
-1. Los individuos e interacciones por encima de los procesos y las herramientas
+## 1. Los individuos e interacciones por encima de los procesos y las herramientas
 
 El primero de los valores que promueve el manifiesto es que las personas son lo más importante, por encima de los procesos y las herramientas, por su capacidad para ser creativas e innovar. Los procesos y las herramientas deben servir de apoyo para que las personas cumplan sus objetivos.
 
@@ -29,7 +29,7 @@ Además, en una realidad cada vez más cambiante, los procesos y las herramienta
 
 Como veremos más adelante, son muchos los principios de Agile que se centran en las personas para conseguir el éxito en los proyectos de software.
 
-2. El software funcionando por encima de la documentación exhaustiva
+## 2. El software funcionando por encima de la documentación exhaustiva
 
 Esta afirmación sostiene que ver cómo se comportan las funcionalidades esperadas en software funcionando es más valioso que un documento muy detallado de requisitos, que además será muy difícil de crear antes del desarrollo de un proyecto por la inestabilidad de su naturaleza.
 
@@ -39,7 +39,7 @@ El Manifiesto Agile no renuncia a la documentación del software (que sigue cons
 
 Como veremos más adelante, las metodologías ágiles conciben el software en funcionamiento como la medida fundamental para conocer el progreso.
 
-3. La colaboración con el cliente por encima de la negociación contractual
+## 3. La colaboración con el cliente por encima de la negociación contractual
 
 De nada sirve entregar un producto a los usuarios que ya no es relevante para ellos. Este valor defiende que, en entornos cada vez más cambiantes, tiene más sentido ir creando el producto con una retroalimentación continua durante su desarrollo, que cumplir a rajatabla lo pactado de antemano.
 
@@ -47,7 +47,7 @@ En desarrollo ágil, el cliente es un miembro más del equipo. La colaboración 
 
 Las metodologías ágiles son especialmente útiles cuando es difícil definir los requisitos del producto desde el principio, cuando hacerlo conllevaría entregar menos valor al final que si vamos enriqueciendo el producto con feedback continuo o en entornos comerciales que cambian rápidamente en los que los requisitos son muy inestables.
 
-4. La respuesta ante el cambio por encima del seguimiento de un plan
+## 4. La respuesta ante el cambio por encima del seguimiento de un plan
 
 El cuarto de los valores de Agile habla de que no tiene sentido utilizar planteamientos rígidos en escenarios volátiles como el del desarrollo de software. Es más valiosa la capacidad de respuesta y adaptación a los cambios que la de seguir y asegurar el cumplimiento de los planes preestablecidos.
 
