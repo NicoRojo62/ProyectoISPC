@@ -54,3 +54,25 @@ El cuarto de los valores de Agile habla de que no tiene sentido utilizar plantea
 Las metodologías ágiles promueven la anticipación y la adaptación, frente a la planificación y el control que proponen las fórmulas de gestión tradicionales. Y, como veremos ahora en sus principios, el manifiesto lleva esta idea un paso más allá, al sugerir el aprovechamiento de los cambios como una ventaja competitiva para las organizaciones.
 
 Estos son los cuatro valores que propone el Manifiesto ágil. Si bien, conviene aclarar que, con ellos, los firmantes de esta declaración no renuncian por completo a todos los componentes de las anteriores metodologías (procesos, documentación, contratos y planificación). Simplemente le dan más importancia a los elementos que colocan en la izquierda de estos cuatro enunciados (personas, software funcionando, colaboración y respuesta al cambio). Así, por ejemplo, están a favor de documentar pero con sentido y de planificar, pero siendo conscientes de los límites de hacerlo en entornos turbulentos.
+
+## 5. PIlares de Scrum
+
+● Transparencia
+Los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La
+transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los
+observadores compartan un entendimiento común de lo que se están viendo.
+Por ejemplo
+• Deben compartir un lenguaje común todos los participantes para referirse al proceso; y,
+• Aquellos que desempeñan el trabajo y quienes inspeccionan el incremento resultante deben compartir una definición
+común de “Terminado” (“Done”). 
+
+● Inspección
+Los usuarios de Scrum deben inspeccionar frecuentemente los Artefactos de Scrum y el progreso hacia un objetivo para
+detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo.
+Las inspecciones son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo
+lugar de trabajo. 
+
+● Adaptación
+Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
+resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
+realizarse cuanto antes para minimizar desviaciones mayores. 
