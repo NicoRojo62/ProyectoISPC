@@ -77,7 +77,9 @@ Si un inspector determina que uno o más aspectos de un proceso se desvían de l
 resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
 realizarse cuanto antes para minimizar desviaciones mayores. 
 
+
 Concepto de Agile:
+
 Agile es un concepto de gestión de proyectos desarrollado para proporcionar a los gestores de proyectos una forma más flexible y eficiente de comercializar productos más rápido. El significado de Agile (ágil) es la capacidad de moverse rápida y fácilmente. Por lo tanto, un enfoque Agile permite a los equipos del proyecto adaptarse más rápido y con más facilidad en comparación con otras metodologías de proyecto. 
 
 Muchos de los proyectos actuales tienen tantas incógnitas que una metodología tradicional de gestión de proyectos no los puede administrar adecuadamente. Esto hace que sea difícil documentar con éxito los requisitos y adaptarse a los cambios a lo largo del proyecto. 
