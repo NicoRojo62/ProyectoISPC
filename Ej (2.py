@@ -4,7 +4,7 @@ Apellido= "Perez"
 Número= 4789689
 Dirección= "Pueyrredon 811"
 
-Dueño2=[Nombre, Número, Dirección]
+Dueño2=[DNI, Nombre, Apellido, Número, Dirección]
 for cadena in Dueño2:
     if cadena == (DNI):
         continue
