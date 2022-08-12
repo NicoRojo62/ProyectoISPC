@@ -6,4 +6,9 @@ Dirección= "Pueyrredon 811"
 
 Dueño2=[Nombre, Número, Dirección]
 for cadena in Dueño2:
+    if cadena == (DNI):
+        continue
+    if cadena == (Apellido):
+        continue
+    else:
     print(cadena)
