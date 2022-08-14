@@ -1,4 +1,4 @@
--- puntos 1,2,,7,10,12
+-- puntos 1,2,10,12
 create database veterinaria;
 use veterinaria;
 create table dueno (
@@ -38,10 +38,9 @@ insert into historial(fecha,perro,descripcion,monto) values
 ('2020-12-23',(select id_perro from perro where id_perro=2),'baño y corte','1500'),
 ('1980-1-5',(select id_perro from perro where id_perro=3),'baño','5');
 
-select sum(monto) total from historial where fecha < '2022-7-1';
-select sum(monto) total from historial where fecha between '2022-7-1' and '2022-7-31';
-
+-- vaciar la tabla historial y reiniciar el contador
 truncate table historial;
 
+-- obtener todos los perros macho nacidos entre 2020 y 2022
 select * from perro where sexo = 1 and fecha_nac between '2020-1-1' and '2022-12-31';
 
